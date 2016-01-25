@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lab10_HttpProxyServer/lab10_HttpProxyServer.iml" filepath="$PROJECT_DIR$/lab10_HttpProxyServer/lab10_HttpProxyServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab11_SmtpSender/lab11_SmtpSender.iml" filepath="$PROJECT_DIR$/lab11_SmtpSender/lab11_SmtpSender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab12_PopMailReceiver/lab12_PopMailReceiver.iml" filepath="$PROJECT_DIR$/lab12_PopMailReceiver/lab12_PopMailReceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab1_Quoter/lab1_Quoter.iml" filepath="$PROJECT_DIR$/lab1_Quoter/lab1_Quoter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab2_PingUtils/lab2_PingUtils.iml" filepath="$PROJECT_DIR$/lab2_PingUtils/lab2_PingUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab3_CopyCounter/lab3_CopyCounter.iml" filepath="$PROJECT_DIR$/lab3_CopyCounter/lab3_CopyCounter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab4_HiddenNetwork/lab4_HiddenNetwork.iml" filepath="$PROJECT_DIR$/lab4_HiddenNetwork/lab4_HiddenNetwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab5_FileTransmission/lab5_FileTransmission.iml" filepath="$PROJECT_DIR$/lab5_FileTransmission/lab5_FileTransmission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab6_GenomeBruteForce/lab6_GenomeBruteForce.iml" filepath="$PROJECT_DIR$/lab6_GenomeBruteForce/lab6_GenomeBruteForce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab7_SocketChat/lab7_SocketChat.iml" filepath="$PROJECT_DIR$/lab7_SocketChat/lab7_SocketChat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab8_InternetRadio/lab8_InternetRadio.iml" filepath="$PROJECT_DIR$/lab8_InternetRadio/lab8_InternetRadio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab9_SimpleHttpServer/lab9_SimpleHttpServer.iml" filepath="$PROJECT_DIR$/lab9_SimpleHttpServer/lab9_SimpleHttpServer.iml" />
+    </modules>
+  </component>
+</project>
